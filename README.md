@@ -25,7 +25,8 @@ Data Available and Files for Results/Analysis:
 3) Original Exoplanet Dataframe (Excel format: csv changed to xlsx for more efficient coding and data analysis).
 4) RStudio Data Science File: Code and Results (Code includes converting RStudio datasets to excel format: xlsx and some basic 3D plotting of multiple variables with the defined parameter ranges.)
 5) Python Data Science File: Code and Results (Random Forest and Random Tree analysis for testing the reliability of our original hypothesis and assumptions as stated in our group proposal and final presentation.)
-6) Our Final Group Proposal (PPT presentation)
+6) Defining Variables and Parameters - Exoplanets Zip: This is a series of documents defining each of the 110+ variables for the detailed scientific background in the collection of data for each exoplanet confirmed or candidate.
+7) Our Final Group Proposal (PPT presentation)
 
 This group presentation was presented to on online attendance at Woz U enpowered through the Southern Careers Institute. I would like to thank my fellow project member: Allen Bencomo who worked on the Python code with assistance from myself in guidence with the appropriate dataframe, selection of variables, parameter ranges, and determing the statistical testing and methods. I would also like to thank Dr. Meredith Dodd who was my project mentor and advisor during my training and certification in Data Science throughout my 35 weeks at Woz U. A personal Thank You to Mr. Devin Moya who has been a personal mentor and my course mentor without my education and training to become a research - oriented Data Scientist.
 
